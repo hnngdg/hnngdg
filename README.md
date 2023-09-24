@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hoang Ngan
-- 🌱 I have more than 1 year of experiance as Data Analyst in the financial industry
+- 🌱 I have more than 1 year of experiance as Data Analyst in consumer finance
 - 💞️ I’m looking for a new job at a junior Data Analyst
 
 <!---
